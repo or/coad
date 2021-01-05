@@ -1,5 +1,7 @@
 #+TITLE: Coat of Arms Generator
 
+Moved to: https://github.com/heraldry
+
 TL;DR: https://coat-of-arms.org and [[./features.org][features]]
 
 ** About
